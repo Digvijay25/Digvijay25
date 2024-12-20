@@ -2,19 +2,18 @@
 
 Data Scientist | ML Engineer | Aspiring Researcher
 
-I’m currently pursuing an MSc in Data Science at the University of Nottingham, with a strong background in Industrial and Mechanical Engineering. My professional journey spans data science, analytics, and machine learning roles, focusing on converting insights into data-driven decisions that optimize performance and deliver measurable business value
+- 👨‍💻 **Data Scientist & ML Engineer** currently pursuing an MSc in Data Science at the University of Nottingham.
+- 🎓 Previously studied Industrial Engineering (ME, Anna University) and Mechanical Engineering (BE, PES Institute of Technology).
+- 💡 Passionate about **machine learning**, **data analytics**, and **NLP**, with hands-on experience in **Power BI**, **AWS**, **PySpark**, and more.
+- 🌱 Currently learning and experimenting with **computer vision** and **NLP** to build robust, data-driven solutions.
+- 🌍 Working towards solutions that drive **insight**, **efficiency**, and **global impact**.
 
-<!--
-**Digvijay25/Digvijay25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Digvijay Singh's GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Digvijay25&show_icons=true&theme=dark)](https://github.com/Digvijay25)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay25&layout=compact&theme=dark)](https://github.com/Digvijay25)
+
+---
