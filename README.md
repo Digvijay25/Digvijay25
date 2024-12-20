@@ -8,8 +8,6 @@ Data Scientist | ML Engineer | Aspiring Researcher
 - 🌱 Currently learning and experimenting with **computer vision** and **NLP** to build robust, data-driven solutions.
 - 🌍 Working towards solutions that drive **insight**, **efficiency**, and **global impact**.
 
-##
-
 <h3 align="left">My skills include</h3>
 
 <div align="center">
