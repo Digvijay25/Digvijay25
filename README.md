@@ -1,6 +1,8 @@
-## Hi there 👋
-
 ## Hi there, I’m Digvijay Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+Data Scientist | ML Engineer | Aspiring Researcher
+
+I’m currently pursuing an MSc in Data Science at the University of Nottingham, with a strong background in Industrial and Mechanical Engineering. My professional journey spans data science, analytics, and machine learning roles, focusing on converting insights into data-driven decisions that optimize performance and deliver measurable business value
 
 <!--
 **Digvijay25/Digvijay25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
