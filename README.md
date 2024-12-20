@@ -10,10 +10,3 @@ Data Scientist | ML Engineer | Aspiring Researcher
 
 ---
 
-### Digvijay Singh's GitHub Stats
-
-[![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Digvijay25&show_icons=true&theme=dark)](https://github.com/Digvijay25)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay25&layout=compact&theme=dark)](https://github.com/Digvijay25)
-
----
