@@ -66,10 +66,6 @@ Data Scientist | ML Engineer | Aspiring Researcher
 
 ## My GitHub Contribution Grid
 
-<!-- Contribution grid placeholder -->
-[View My Contributions](https://github.com/users/digvijay25/contributions)
-
-
 <br clear="both">
 
 <!-- Snake animation -->
