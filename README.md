@@ -64,11 +64,16 @@ Data Scientist | ML Engineer | Aspiring Researcher
 <br>
 </p>       
 
-###
+## My GitHub Contribution Grid
+
+<!-- Contribution grid placeholder -->
+[View My Contributions](https://github.com/users/digvijay25/contributions)
+
+
 <br clear="both">
 
+<!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/digvijay25/digvijay25/output/snake.svg" alt="Snake animation" />
 
-###
 
 
