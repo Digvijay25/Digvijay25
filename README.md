@@ -8,7 +8,7 @@ Data Scientist | ML Engineer | Aspiring Researcher
 - 🌱 Currently learning and experimenting with **computer vision** and **NLP** to build robust, data-driven solutions.
 - 🌍 Working towards solutions that drive **insight**, **efficiency**, and **global impact**.
 
-<h3 align="left">My skills include</h3>
+### 🛠️ My Skills
 
 <div align="center">
   <img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
@@ -42,14 +42,11 @@ Data Scientist | ML Engineer | Aspiring Researcher
 </div>
 <br>
 
-###
-
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digvijay25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=digvijay25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=digvijay25&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=digvijay25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
 
 <hr>
 <p align="center">
@@ -68,8 +65,8 @@ Data Scientist | ML Engineer | Aspiring Researcher
 
 <br clear="both">
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/digvijay25/digvijay25/output/snake.svg" alt="Snake animation" />
+<!-- Snake animation with custom message, emojis, and theme -->
+[![Snake Animation](https://github.com/digvijay25/digvijay25/blob/output/github-contribution-grid-snake.svg&message=Digvijay's%20Contributions%20🐍&color=00FF00&theme=radical)](https://github.com/digvijay25)
 
 
 
