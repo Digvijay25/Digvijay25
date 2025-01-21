@@ -65,8 +65,14 @@ Data Scientist | ML Engineer | Aspiring Researcher
 
 <br clear="both">
 
-<!-- Snake animation with custom message, emojis, and theme -->
-[![Snake Animation](https://github.com/digvijay25/digvijay25/blob/output/github-contribution-grid-snake.svg&message=Digvijay's%20Contributions%20🐍&color=00FF00&theme=radical)](https://github.com/digvijay25)
+### 🐍 Digvijay's Contributions in 2023 🚀
+<div style="border: 2px solid #00FF00; padding: 10px; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/digvijay25/digvijay25/output/snake.svg" alt="Snake animation" />
+</div>
+
+<p align="center">
+  <i>"Keep coding, keep contributing!"</i>
+</p>
 
 
 
