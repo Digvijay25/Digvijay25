@@ -65,14 +65,10 @@ Data Scientist | ML Engineer | Aspiring Researcher
 
 <br clear="both">
 
-### 🐍 Digvijay's Contributions in 2023 🚀
 <div style="border: 2px solid #00FF00; padding: 10px; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/digvijay25/digvijay25/output/snake.svg" alt="Snake animation" />
 </div>
 
-<p align="center">
-  <i>"Keep coding, keep contributing!"</i>
-</p>
 
 
 
